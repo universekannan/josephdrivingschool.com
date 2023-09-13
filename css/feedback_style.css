@@ -1,0 +1,121 @@
+#feedback_lightbox
+{
+	width:500px;
+	z-index:9999;
+	position:relative;
+	top:20%;
+	left:30%;
+	
+}
+#feedback_overlay_box
+{
+ position:absolute;
+ top:0;
+ left:0;
+ background:#000000;
+ opacity:0.9;
+ overflow:hidden;
+ z-index:9998;
+ width:100%;
+ display:none;
+ height:100%;
+
+}
+#feedback_button
+{
+width:40px;
+height:100px;
+position:fixed;
+left:0;
+top:40%;
+overflow:hidden;
+}
+#feedback_button a
+{
+width:70px;
+height:150px;
+overflow:hidden;
+background:url(/web/20140125115325im_/http://josephdrivingschool.com/css/feedback_tab_white2.jpg) no-repeat top left;
+display:inline-block;
+padding:10px;
+}
+#feedback_close
+{
+display:block;
+height:20px;
+text-align:right;
+width:550px;
+}
+#feedback_close a
+{
+	display:block;
+	background:url(/web/20140125115325im_/http://josephdrivingschool.com/images/close_30.png) no-repeat top left;
+	width:30px;
+	float:right;
+	height:30px;
+}
+#feedback_form
+{
+	width:480px;
+	background: #ffffff url(/web/20140125115325im_/http://josephdrivingschool.com/images/dialog.png) repeat-x left bottom;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.1);
+	padding:30px;
+	 
+}
+#feedback_form p
+{
+padding:0px 0px 10px 0px;
+margin:0px;
+display:block;
+}
+#feedback_form p label
+{
+display:block;
+font-size:12px;
+line-height:16px;
+padding:0px 0px 3px 0px;
+color:red;
+}
+#feedback_form p .feedback_text,#feedback_form p .feedback_textarea
+{
+border:1px solid #999999; width:300px; height:25px;
+	
+}
+#feedback_error
+{
+margin:10px 0px 0px 0px;
+border:1px solid red;
+padding:10px;
+overflow:hidden;
+display:none;
+}
+#feedback_response
+{
+margin:10px 0px 10px 0px;
+border:1px solid green;
+padding:10px;
+color:green;
+overflow:hidden;
+display:none;
+}
+.back
+{
+background:url(/web/20140125115325im_/http://josephdrivingschool.com/images/lo_p.jpg) right no-repeat;
+height:237px;
+width:150px;
+float: left;
+padding-right:0px;
+}
+/*
+     FILE ARCHIVED ON 11:53:25 Jan 25, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:20:06 Jun 30, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/

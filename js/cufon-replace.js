@@ -1,0 +1,10 @@
+Cufon.replace('.menu li a, h3, h4, .support, h1 a, .button, .button-2', { fontFamily: 'NewsGoth BT', hover:true });
+
+/*
+     FILE ARCHIVED ON 11:52:47 Jan 25, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:20:07 Jun 30, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
